@@ -18,7 +18,7 @@ API 호출시 토큰 1개를 소비한다.
 * Gradle 8.5
 
 ## 3. API 실행
-버킷을 모두 사용하면 토큰이 충전되기 전까지 조회 실패(TOO_MANY_REQUESTS)가 된다.
+버킷을 모두 사용하면 토큰이 충전되기 전까지 조회 실패(TOO_MANY_REQUESTS)를 리턴한다.
 
 * GET
   - http://localhost:8080/bucket
