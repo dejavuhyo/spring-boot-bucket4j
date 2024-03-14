@@ -1,7 +1,7 @@
 # Spring Boot Bucket4j
 
 ## 1. 설명
-Spring Boot Bucket4j 예제이다. 포트는 8080을 사용한다.
+Spring Bucket4j 예제이다. 포트는 8080을 사용한다.
 
 버킷의 크기는 3개이며 10초에 3개의 토큰을 충전한다.
 
